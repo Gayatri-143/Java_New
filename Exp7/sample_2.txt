@@ -1,0 +1,1 @@
+Hello world! this text file is build to find vowels , word count and to count number of a's.this line is from filehandler program using character stream class

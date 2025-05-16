@@ -1,0 +1,1 @@
+This is sample.txt file used to read data from this file using filereader.
